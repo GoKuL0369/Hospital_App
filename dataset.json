@@ -1,0 +1,27 @@
+[
+   {
+      "hospitalName": "Aster",
+      "patientCount": "100",
+      "hospitalLocation": "Bahrain"
+   },
+   {
+      "hospitalName": "Medicaltrust",
+      "patientCount": "900",
+      "hospitalLocation": "Kochi"
+   },
+   {
+      "hospitalName": "Appolo",
+      "patientCount": "1500",
+      "hospitalLocation": "Ernakulam"
+   },
+   {
+      "hospitalName": "Al-hilal",
+      "patientCount": "700",
+      "hospitalLocation": "Quatar"
+   },
+   {
+      "hospitalName": "AmericanMission",
+      "patientCount": "600",
+      "hospitalLocation": "Saudi"
+   }
+]
